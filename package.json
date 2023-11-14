@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/vehicle-foresee-p1z3c.blank-loycbmyl",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve Xqw1H3SOBpAQWYXHILxx --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
